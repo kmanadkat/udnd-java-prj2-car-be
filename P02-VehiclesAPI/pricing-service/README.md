@@ -13,8 +13,8 @@ input. In this project, you will convert it to a microservice.
 
 #### TODOs
 
-- Convert the Pricing Service to be a microservice.
-- Add an additional test to check whether the application appropriately generates a price for a given vehicle ID
+- [x] Convert the Pricing Service to be a microservice.
+- [x] Add an additional test to check whether the application appropriately generates a price for a given vehicle ID
 
 #### Run the code
 
