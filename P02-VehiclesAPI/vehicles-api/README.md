@@ -17,9 +17,9 @@ view of vehicle details including price and address.
 
 #### TODOs
 
-- Implement the `TODOs` within the `CarService.java` and `CarController.java`  files
-- Add additional tests to the `CarControllerTest.java` file based on the `TODOs`
-- Implement API documentation using Swagger
+-[x] Implement the `TODOs` within the `CarService.java` and `CarController.java`  files
+-[x] Add additional tests to the `CarControllerTest.java` file based on the `TODOs`
+-[x] Implement API documentation using Swagger
 
 #### Run the Code
 
